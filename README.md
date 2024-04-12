@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 
 </div>
 
-## test
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkhyeonmin1&layout=compact)
 
 ## Contacts
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
