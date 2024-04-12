@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--
-[![parkhyeonmin1's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkhyeonmin1&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/parkhyeonmin1/github-readme-stats)
--->
+
 
 ## My Skill
 
@@ -23,7 +21,7 @@ Here are some ideas to get you started:
 
 <img height="180px;" src="https://github-readme-stats.vercel.app/api?username=parkhyeonmin1&show_icons=true&theme=dark&icon_color=4169E1&title_color=6495ED">
 
-<img height="180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkhyeonmin1&layout=compact&theme=dracula">
+<img height="180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkhyeonmin1&layout=compact&theme=dracula&exclude_repo=Q_Pool">
 
 </div>
 
