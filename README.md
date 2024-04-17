@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 <!--
 <img height="180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkhyeonmin1&layout=compact&theme=dracula">
 -->
-<img height="180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkhyeonmin1&layout=compact&theme=dracula">
 </div>
 
 
