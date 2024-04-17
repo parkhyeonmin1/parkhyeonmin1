@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <div>
 
 <img height="180px;" src="https://github-readme-stats.vercel.app/api?username=parkhyeonmin1&show_icons=true&theme=dark&icon_color=4169E1&title_color=6495ED">
-<!--
-<img height="180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkhyeonmin1&layout=compact&theme=dracula">
--->
+
+<img height="180px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=parkhyeonmin1&layout=compact&theme=dracula">
+
 </div>
 
 
